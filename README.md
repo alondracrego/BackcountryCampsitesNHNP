@@ -1,0 +1,2 @@
+# BackcountryCampsitesNHNP
+Repository of manuscript

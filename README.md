@@ -16,7 +16,7 @@ Repository of manuscript
 #All models and analyses from the manuscript are included in this code: 
 1. Spatial configuration of the campsites 
 2. Vegetation impact
-3. Spatial patterns and itineraries
+3. Spatial patterns and potential change in visitation pattern under the new Park regulation
 5. Visitation season 
 4. Visitor perception 
 5. Visitor acceptability
